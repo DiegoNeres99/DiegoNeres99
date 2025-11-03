@@ -1,4 +1,4 @@
-<h4 align="left">👨‍💻 Sobre mim<br><br>Sou Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em NestJS, Angular, MySQL e Git, e busco sempre aplicar boas práticas de desenvolvimento para criar soluções eficientes e escaláveis.<br><br>Atualmente, estou expandindo meus conhecimentos em DevOps, com foco em automação, integração contínua e otimização de processos. Meu objetivo é contribuir para projetos desafiadores, aprimorando tanto minhas habilidades técnicas quanto o impacto positivo que posso gerar nas equipes e nos produtos.<br><br>💡 Habilidades-chave:<br><br>Backend: NestJS<br><br>Frontend: Angular<br><br>Banco de dados: MySQL<br><br>Controle de versão: Git<br><br>Práticas DevOps: CI/CD, automação de processos</h4>
+<h5 align="left">👨‍💻 Sobre mim<br><br>Sou Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em NestJS, Angular, MySQL e Git, e busco sempre aplicar boas práticas de desenvolvimento para criar soluções eficientes e escaláveis.<br><br>Atualmente, estou expandindo meus conhecimentos em DevOps, com foco em automação, integração contínua e otimização de processos. Meu objetivo é contribuir para projetos desafiadores, aprimorando tanto minhas habilidades técnicas quanto o impacto positivo que posso gerar nas equipes e nos produtos.<br><br>💡 Habilidades-chave:<br><br>Backend: NestJS<br><br>Frontend: Angular<br><br>Banco de dados: MySQL<br><br>Controle de versão: Git<br><br>Práticas DevOps: CI/CD, automação de processos</h5>
 
 ###
 
@@ -37,6 +37,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DiegoNeres99/DiegoNeres99/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoNeres99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoNeres99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
