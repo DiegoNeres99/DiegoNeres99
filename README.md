@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DiegoNeres99/DiegoNeres99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoNeres99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNeres99&layout=compact&langs_count=7&theme=github_dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DiegoNeres99&theme=github-dark-blue"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoNeres99&theme=github_dark"/>
+
+</div>
