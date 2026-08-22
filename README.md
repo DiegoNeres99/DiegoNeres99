@@ -4,16 +4,12 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiegoNeres99&theme=github_dark" />
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoNeres99&theme=github_dark" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=DiegoNeres99&theme=github-dark-blue" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoNeres99&theme=github_dark" />
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoNeres99&theme=github_dark" />
 
 </div>
