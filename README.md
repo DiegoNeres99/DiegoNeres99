@@ -1,23 +1,19 @@
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoNeres99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiegoNeres99&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNeres99&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiegoNeres99&theme=github_dark" />
 
 <br>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoNeres99&theme=github_dark" />
 
-<img src="https://streak-stats.demolab.com?user=DiegoNeres99&theme=github-dark-blue"/>
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=DiegoNeres99&theme=github-dark-blue" />
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoNeres99&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoNeres99&theme=github_dark" />
 
 </div>
